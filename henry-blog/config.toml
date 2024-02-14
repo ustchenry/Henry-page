@@ -1,5 +1,5 @@
 # Basic
-title = "Vno Hugo"
+title = "Henry~"
 baseURL = "https://ustchenry.github.io/"
 theme = "vno-hugo"
 
@@ -36,13 +36,13 @@ paginatePath = "page"
     tag = "tags"
     
 [params]
-author = "onevcat"
-subtitle = "A blog-orientation theme for Hugo"
-description = "Vno Hugo is a port of Vno Jekyll."
-welcomeMessage = "Oh What a World"
+author = "Henry"
+subtitle = "Yuheng Wu, Chengdu, Sichuan, China."
+description = "If you want a happy ending, that depends on where you stop your story."
+welcomeMessage = "ツ"
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-coverColor = "red"
+coverColor = ""
 
 [params.comment]
 disqus = "vno-hugo"
