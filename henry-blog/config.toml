@@ -28,11 +28,21 @@ paginatePath = "page"
   url = "https://ustchenry.github.io"
   weight = 5
   [[menu.main]]
-    name = "Projects"
-    identifier = "projects"
-    url = "http://project.onevcat.com/"
+    name = "Profile"
+    identifier = "profile"
+    url = "/Profile/"
     weight = 10
- [[menu.main]]
+  [[menu.main]]
+  name = "Publications"
+  identifier = "publications"
+  url = ""
+  weight = 15
+  [[menu.main]]
+  name = "Moments"
+  identifier = "moments"
+  url = ""
+  weight = 17
+  [[menu.main]]
     name = "Tags"
     identifier = "Tags"
     url = "/tags/"
