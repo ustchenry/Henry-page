@@ -1,5 +1,5 @@
 # Basic
-title = "Henry~"
+title = "Henry ツ"
 baseURL = "https://ustchenry.github.io/"
 theme = "vno-hugo"
 
@@ -23,6 +23,11 @@ paginatePath = "page"
 
 [menu]
   [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  url = "https://ustchenry.github.io"
+  weight = 5
+  [[menu.main]]
     name = "Projects"
     identifier = "projects"
     url = "http://project.onevcat.com/"
@@ -37,15 +42,15 @@ paginatePath = "page"
     
 [params]
 author = "Henry"
-subtitle = "Yuheng Wu, Chengdu, Sichuan, China."
-description = "If you want a happy ending, that depends on where you stop your story."
-welcomeMessage = "ツ"
+subtitle = "Yuheng Wu"
+description = "Hi there ~"
+welcomeMessage = ""
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 coverColor = ""
 
 [params.comment]
-disqus = "vno-hugo"
+disqus = "Henry"
 duoshuo = ""
 
 # Take a look on https://github.com/gitalk/gitalk#usage for more info.
@@ -56,21 +61,21 @@ repo = ""
 owner = ""
 
 [params.social]
-weibo = "onevcat"
-github = "onevcat"
-twitter = "onevcat"
-gplus = "107108267983477358170"
-mail = "onev@onevcat.com"
-linkedin = "example"
+weibo = " "
+github = "ustchenry"
+twitter = " "
+gplus = " "
+mail = "yw210@rice.edu"
+linkedin = " "
 
 [params.ga]
 ID = "your_ga_id"
 host = "your_host"
 
-# The blog button should not be removed.
 [params.blogButton]
 title = "Blog"
 description = "Visit blog"
+
 
 [params.copyright]
 license = 'CC BY-NC-SA 4.0'
