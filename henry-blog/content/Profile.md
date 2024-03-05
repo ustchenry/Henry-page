@@ -6,9 +6,13 @@ date = 2024-03-06T01:36:17+08:00
 +++
 ## Yuheng (Henry) Wu
 
-<img src="/profile/selfie.jpg" />
+![Yuheng](profile-img/selfie.jpg)
 
-### Education
+&nbsp;
+
+### **Education**
+
+&nbsp;
 
 **2020 - 2024**   *Bachelor of Science*, University of Science and Technology of China, Physical Chemistry (Major), Computer Science (Minor).
 
@@ -18,39 +22,52 @@ date = 2024-03-06T01:36:17+08:00
 
 **2024 - ?** *Ph.D*, Massachusetts Institute of Technology, Material Science and Engineering.
 
-### Interests
+&nbsp;
+
+### **Interests**
+
+&nbsp;
 
 #### **Chemistry**
+
+&nbsp;
 
 ##### Electrochemistry
 
 Electrical energy can regulate the kinetics, thermodynamics and selectivity of chemical reactions. Electrochemical synthesis, if designed with care, can be scaled up and industrialized. In the future, I intend to incorporate electrochemistry into conventional chemical industries to reduce energy consumption, simplify product separation and eliminate waste disposal.
 
-<img src="\profile\EChem.png" alt="EChem" style="zoom:50%;" align="left"/>
+![Yuheng](profile-img/EChem.png)
 
 ##### Catalysis
 
 In terms of energy conversion, I\'m generally interested in photocatalysis (light energy), electrocatalysis (electric energy), thermocatalysis (thermal energy & mechanical energy). In terms of reactions, I've done research on water (H~2~O) splitting, carbon dioxide (CO<sub>2</sub>) reduction, hydrogen peroxide (H~2~O~2~) generation and utilization, nitrogen compound synthesis and epoxidation.
 
-<img src="C:\吴员外\Henry-page\henry-blog\content\Profile\cat.png" alt="cat" style="zoom:50%;" align="left" />
+![Yuheng](profile-img/Cat.png)
 
 ##### Computational Chemistry
 
 I possess a skill set of first-principle calculation, molecular dynamics simulation and finite element analysis. Our interpretation of heterogeneous interface is still vague to date. Current computations can reflect the thermodynamics of interfacial reactions but fail to reveal the mechanisms and kinetics. I believe new modeling and even new paradigm will be proposed in the future.
 
-<img src="C:\吴员外\Henry-page\henry-blog\content\Profile\Comput.png" alt="Comput" style="zoom:50%;" align="left" />
+![Yuheng](profile-img/Comput.png)
 
 ##### Machine Learning
 
 Data-driven approaches are often described as attractive because mechanistic insights are not necessarily required from the outset. As computational chemistry gets more and more mature, calculated results, particularly those obtained with Density Functional Theory (DFT), are frequently used to support the interpretation of experimental data with structural insights, calculated spectroscopic data and testing of mechanistic hypotheses, increasingly presented in integrated studies. However, a key limitation of DFT is the computational cost of the calculations. Therefore, people are trying to develop deep generative models based on machine learning, which directly learn from the training data consisting of objective structures. This new direction in the field is combining automated exploration methods with extensive data analysis and machine learning algorithms, holding promises for the holy grail of material discovering.
 
-<img src="C:\吴员外\Henry-page\henry-blog\content\Profile\ML.png" alt="ML" style="zoom:50%;" align="left" />
+![Yuheng](profile-img/ML.png)
+
+&nbsp;
 
 #### **Table Tennis**
+
+&nbsp;
+
+[Yuheng Wu](https://usatt.simplycompete.com/userAccount/up/181272?uai=181272&embedded=&max=20)
+
+[USATT: 1181272](https://usatt.simplycompete.com/userAccount/up/181272?uai=181272&embedded=&max=20)
 
 | Tournament                                                   | Date                    | Initial Rating | Final Rating                                                 |
 | ------------------------------------------------------------ | :---------------------- | :------------- | :----------------------------------------------------------- |
 | [2024 HITTA President's Day Tournament](https://usatt.simplycompete.com/t/tr/14937?uai=181272) | 2024-02-18 - 2024-02-18 | 1588           | [1592](https://usatt.simplycompete.com/exp/index?tri=14937&uai=181272) |
 | [Westford TTC September 2023 Open](https://usatt.simplycompete.com/t/tr/14776?uai=181272) | 2023-09-03 - 2023-09-03 | 0              | [1588](https://usatt.simplycompete.com/exp/index?tri=14776&uai=181272) |
 
-[USATT Link](https://usatt.simplycompete.com/userAccount/up/181272?uai=181272&embedded=&max=20)
