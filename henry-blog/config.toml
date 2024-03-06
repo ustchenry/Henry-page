@@ -35,7 +35,7 @@ paginatePath = "page"
   [[menu.main]]
   name = "Publications"
   identifier = "publications"
-  url = ""
+  url = "/Publications/"
   weight = 15
   [[menu.main]]
   name = "Moments"
@@ -45,7 +45,7 @@ paginatePath = "page"
   [[menu.main]]
     name = "Tags"
     identifier = "Tags"
-    url = "/tags/"
+#    url = "/tags/"
     weight = 20
 [taxonomies]
     tag = "tags"
@@ -71,7 +71,6 @@ repo = ""
 owner = ""
 
 [params.social]
-weibo = " "
 github = "ustchenry"
 twitter = " "
 gplus = " "
@@ -93,3 +92,8 @@ license_link = 'http://creativecommons.org/licenses/by-nc-sa/4.0/'
 
 [permalinks]
 posts = "/:year/:month/:title/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
