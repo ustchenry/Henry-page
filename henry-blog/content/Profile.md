@@ -12,7 +12,11 @@ date = 2024-03-06T01:36:17+08:00
 
 &nbsp;
 
+------
+
 ### **Education**
+
+------
 
 **2020 - 2024**   *Bachelor of Science*, University of Science and Technology of China, Physical Chemistry (Major), Computer Science (Minor).
 
@@ -24,7 +28,11 @@ date = 2024-03-06T01:36:17+08:00
 
 &nbsp;
 
+------
+
 ### **Interests**
+
+------
 
 ### Chemistry
 
