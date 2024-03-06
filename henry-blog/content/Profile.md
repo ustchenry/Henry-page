@@ -46,7 +46,7 @@ Electrical energy can regulate the kinetics, thermodynamics and selectivity of c
 
 In terms of energy conversion, I\'m generally interested in photocatalysis (light energy), electrocatalysis (electric energy), thermocatalysis (thermal energy & mechanical energy). In terms of reactions, I\'ve done research on water ($\mathrm{H_2O}$) splitting, carbon dioxide ($\mathrm{CO_2}$) reduction, hydrogen peroxide ($\mathrm{H_2O_2}$) generation and utilization, nitrogen compound synthesis and epoxidation.
 
-![Cat](/profile-img/Catalyst.png)
+![Cat](/profile-img/Cat.png)
 
 ##### **Computational Chemistry**
 
