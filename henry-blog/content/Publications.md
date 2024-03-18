@@ -59,7 +59,7 @@ $1.$ Xi, D.; Wu, Y. and Aziz, M. *Electrifying the industrial H2O2 production.* 
 
 $2.$  Wu, Y.; Kong, X.; Su, Y.; Zhao, J.; Ma, Y.; Ji, T.; Wu, D., Meng, J.; Liu, Y.; Geng, Z. and Zeng, J. *Thiol Ligand-modified Au for Highly Efficient Electroreduction of Nitrate to Ammonia.* **Pre. Chem.** [[PDF](/pub-img/PreChem2024.pdf)]
 
-![2024PreChemTOC](/pub-img/PreChem2024.png)
+![2024PreChemTOC](/pub-img/PreChem2024.jpg)
 
 ------
 

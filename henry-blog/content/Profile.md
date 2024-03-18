@@ -69,6 +69,4 @@ Data-driven approaches are often described as attractive because mechanistic ins
 | [2024 HITTA President\'s Day Tournament](https://usatt.simplycompete.com/t/tr/14937?uai=181272) | 2024-02-18 - 2024-02-18 | 1588           | [1592](https://usatt.simplycompete.com/exp/index?tri=14937&uai=181272) |
 | [Westford TTC September 2023 Open](https://usatt.simplycompete.com/t/tr/14776?uai=181272) | 2023-09-03 - 2023-09-03 | 0              | [1588](https://usatt.simplycompete.com/exp/index?tri=14776&uai=181272) |
 
-[Yuheng Wu](https://usatt.simplycompete.com/userAccount/up/181272?uai=181272&embedded=&max=20), [USATT: 1181272](https://usatt.simplycompete.com/userAccount/up/181272?uai=181272&embedded=&max=20)
-
 &nbsp;

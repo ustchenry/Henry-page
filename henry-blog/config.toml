@@ -72,10 +72,13 @@ owner = ""
 
 [params.social]
 github = "ustchenry"
-twitter = " "
-gplus = " "
-mail = "yw210@rice.edu"
-linkedin = " "
+twitter = "wu_yuheng1079"
+facebook = "profile.php?id=100026153963941"
+instagram = "henry1433223/"
+googlescholar = "citations?hl=en&view_op=list_works&gmla=AKKJWFeARdLijamI6s5WBLcLI6gFfWiyegQ8TjkIBbo2MMnSBqWOjZ7s2-asujBMsfMwjEkOCuXpmwj1uz0b7A&user=jfXiHv4AAAAJ"
+mail = "wuyuheng@mit.edu"
+linkedin = "%E5%AE%87%E6%A1%81-%E5%90%B4-6683302bb/"
+pingpong = "181272?uai=181272&embedded=&max=20"
 
 [params.ga]
 ID = "your_ga_id"
