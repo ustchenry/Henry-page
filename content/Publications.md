@@ -1,9 +1,37 @@
 +++
 title = 'Publications'
-date = 2024-03-06T10:51:12+08:00
+date = 2025-05-23T10:51:12+08:00
 #draft = true
 
 +++
+
+&nbsp;
+
+## **Papers**
+
+------
+
+### **2025**
+
+------
+
+&nbsp;
+
+------
+
+### **2024**
+
+------
+
+$2.$  Wu, Y.; Kong, X.; Su, Y.; Zhao, J.; Ma, Y.; Ji, T.; Wu, D., Meng, J.; Liu, Y.; Geng, Z. and Zeng, J. *Thiol Ligand-modified Au for Highly Efficient Electroreduction of Nitrate to Ammonia.* **Pre. Chem.** 2024, 2, 112-119. [[PDF](/pub-img/PreChem2024.pdf)]
+
+![2024PreChemTOC](/pub-img/PreChem2024.jpg)
+
+------
+
+$1.$ Wei, J.; Tang, H.; Sheng, L.; Wang, R.; Fan, M.; Wan, J.; Wu, Y.; Zhang, Z.; Zhou, S. and Zeng, J. *Site-specific metal-support interaction to switch the activity of Ir single atoms for oxygen evolution reaction.*  **Nat. Commun.** 2024, 15, 559.  [[PDF](/pub-img/NatCom2024.pdf)]
+
+![2024NatComTOC](/pub-img/NatCom2024.jpg)
 
 &nbsp;
 
@@ -11,13 +39,21 @@ date = 2024-03-06T10:51:12+08:00
 
 ------
 
+### **2025**
+
+------
+
+&nbsp;
+
+------
+
 ### **2024**
 
 ------
 
-1. Thiol ligand-modified Au nanoparticles function as an extraordinary electrocatalyst in the reduction of nitrate to ammonia. **Pre. Chem.**
+$1.$ Thiol ligand-modified Au nanoparticles function as an extraordinary electrocatalyst in the reduction of nitrate to ammonia. **Pre. Chem.**
 
-   ![2024PreChem](/pub-img/Cover-Art-2024-Pre-Chem.png)
+![2024PreChem](/pub-img/Cover-Art-2024-Pre-Chem.png)
 
 &nbsp;
 
@@ -25,15 +61,33 @@ date = 2024-03-06T10:51:12+08:00
 
 ------
 
+### **2025**
+
+------
+
+$2.$​ Wu, Y.; Gao, Y.; Abate, I. *Compositions and Methods for Subsurface Geothermal Olefin Production.*  [[PDF](/pub-img/GeoOlefin.pdf)]
+
+&nbsp;
+
+------
+
 ### **2024**
 
 ------
 
-1. Xi, D.; Wu, Y. and Aziz, M. *An electrochemical method for electrolyte-free hydrogen peroxide production.* Submitted.  [[PDF](/pub-img/Patent-H2O2-2024.pdf)]
+$1.$ Xi, D.; Wu, Y. and Aziz, M. *An electrochemical method for electrolyte-free hydrogen peroxide production.* [[PDF](/pub-img/Patent-H2O2-2024.pdf)]
 
 &nbsp;
 
 ## **Conferences**
+
+------
+
+### **2025**
+
+------
+
+&nbsp;
 
 ------
 
@@ -49,22 +103,3 @@ $1.$ Xi, D.; Wu, Y. and Aziz, M. *Electrifying the industrial H2O2 production.* 
 
 &nbsp;
 
-## **Papers**
-
-------
-
-### **2024**
-
-------
-
-$2.$  Wu, Y.; Kong, X.; Su, Y.; Zhao, J.; Ma, Y.; Ji, T.; Wu, D., Meng, J.; Liu, Y.; Geng, Z. and Zeng, J. *Thiol Ligand-modified Au for Highly Efficient Electroreduction of Nitrate to Ammonia.* **Pre. Chem.** [[PDF](/pub-img/PreChem2024.pdf)]
-
-![2024PreChemTOC](/pub-img/PreChem2024.jpg)
-
-------
-
-$1.$ Wei, J.; Tang, H.; Sheng, L.; Wang, R.; Fan, M.; Wan, J.; Wu, Y.; Zhang, Z.; Zhou, S. and Zeng, J. *Site-specific metal-support interaction to switch the activity of Ir single atoms for oxygen evolution reaction.*  **Nat. Commun.** 2024, 15, 559.  [[PDF](/pub-img/NatCom2024.pdf)]
-
-![2024NatComTOC](/pub-img/NatCom2024.jpg)
-
-&nbsp;
